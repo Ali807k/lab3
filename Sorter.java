@@ -27,9 +27,11 @@ public class Sorter{
         }  
     }  
 
+    public void sort(int[] array) {
+        insertionSort(array)
+    }
+
     public static void main(String[] args) {
-        public sort(array) {
-            insertionSort(array)
-        }
+        
     }
 }
